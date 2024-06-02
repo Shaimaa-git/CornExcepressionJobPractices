@@ -1,0 +1,5 @@
+Problem 29: Write a CRON expression that runs a job at 10:00 PM every Sunday in the months of July, August, and September
+
+Answer:
+
+0 22 * 7-9 7
