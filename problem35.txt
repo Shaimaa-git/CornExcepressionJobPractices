@@ -1,0 +1,6 @@
+Problem 35: Write a CRON expression that runs a job every 5 minutes on the 1st day of every month.
+
+
+Answer:
+
+*/5 * 1 * *
