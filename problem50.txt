@@ -1,0 +1,6 @@
+Problem 50: Write a CRON expression that runs a job at 8:00 AM every day, except for the last day of the month
+
+
+Answer:
+
+0 8 1-28 * *
