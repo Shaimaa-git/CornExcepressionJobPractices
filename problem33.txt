@@ -1,0 +1,6 @@
+Problem 33: Write a CRON expression that runs a job every hour from 6:00 AM to 8:00 PM on weekdays
+
+
+Answer:
+
+0 6-20 * * 1-5
