@@ -1,0 +1,5 @@
+Problem 24: Write a CRON expression that runs a job at 10:00 PM every day in the month of December.
+
+Answer:
+
+0 22 * 12 *
