@@ -1,0 +1,5 @@
+Problem 31: Write a CRON expression that runs a job at 11:30 PM every Friday
+
+Answer:
+
+30 23 * * 5
