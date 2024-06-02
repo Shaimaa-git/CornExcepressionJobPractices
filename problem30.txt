@@ -1,0 +1,6 @@
+Problem 30: Write a CRON expression that runs a job at 12:00 PM every day except Sunday in the month of July.
+
+
+Answer:
+
+0 12 * 7 1-6
