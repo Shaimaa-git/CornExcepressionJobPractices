@@ -1,0 +1,5 @@
+Problem 37: Write a CRON expression that runs a job every 15 minutes from 2:00 PM to 10:00 PM on weekends.
+
+
+Answer:
+*/15 14-22 * * 6,7
