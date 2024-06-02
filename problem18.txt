@@ -1,0 +1,5 @@
+Problem 18: Write a CRON expression that runs a job at 11:30 PM every Friday the 13th.
+
+Answer:
+
+30 23 13 * 5
