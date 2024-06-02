@@ -1,0 +1,6 @@
+Problem 46: Write a CRON expression that runs a job at 12:00 PM on the first Monday of every month.
+
+
+Answer:
+
+0 12 * * 1#1
