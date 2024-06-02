@@ -1,0 +1,5 @@
+Problem 13: Write a CRON expression that runs a job every day at 6:00 PM during daylight saving time (DST) in the United States.
+
+Answer:
+
+0 18 * 3-11 Sun
