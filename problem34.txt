@@ -1,0 +1,6 @@
+Problem 34: Write a CRON expression that runs a job every 30 minutes on the 15th and 30th day of every month.
+
+
+Answer:
+
+*/30 * 15,30 * *
