@@ -1,0 +1,5 @@
+Problem 26: Write a CRON expression that runs a job at 4:30 PM on the 1st and 15th days of every month.
+
+Answer:
+
+30 16 1,15 * *
