@@ -1,0 +1,6 @@
+Problem 19: Write a CRON expression that runs a job every hour but only on even-numbered days of the month.
+
+
+Answer:
+
+0 * 0/2 * *
