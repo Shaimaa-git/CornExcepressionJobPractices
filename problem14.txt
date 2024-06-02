@@ -1,0 +1,11 @@
+Problem 14: Write a CRON expression that runs a job every 5 minutes on weekdays and every 15 minutes on weekends.
+
+Answer:
+
+1.Weekdays:
+
+*/5 * * * 1-5
+
+2.Weekends:
+
+*/15 * * * 6,7
