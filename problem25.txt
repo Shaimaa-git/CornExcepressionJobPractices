@@ -1,0 +1,6 @@
+Problem 25: Write a CRON expression that runs a job at the bottom of every hour (i.e., at :00 and :30 minutes past the hour) between 6:00 PM and midnight on weekdays.
+
+
+Answer:
+
+0,30 18-23 * * 1-5
