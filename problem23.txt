@@ -1,0 +1,5 @@
+Problem 23: Write a CRON expression that runs a job at 8:15 AM every weekday except Friday.
+
+Answer:
+
+15 8 * * 1-4
