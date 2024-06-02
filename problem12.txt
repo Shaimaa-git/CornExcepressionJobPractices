@@ -1,0 +1,5 @@
+Problem 12: Write a CRON expression that runs a job every hour on the 15th day of the month.
+
+Answer:
+
+0 * 15 * *
