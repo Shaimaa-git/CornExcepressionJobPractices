@@ -1,0 +1,6 @@
+Problem 16: Write a CRON expression that runs a job every hour during the first half of the month.
+
+
+Answer:
+
+0 * 1-15 * * 
