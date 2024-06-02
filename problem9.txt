@@ -1,0 +1,5 @@
+Problem 9: Write a CRON expression that runs a job every day at 3:00 AM.
+
+Answer:
+
+0 3 * * *
