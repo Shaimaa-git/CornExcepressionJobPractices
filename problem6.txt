@@ -1,0 +1,5 @@
+Problem 6: Write a CRON expression that runs a job every Sunday at 7:30 PM and 10:30 PM.
+
+Answer:
+
+30 19,22 * * 0
