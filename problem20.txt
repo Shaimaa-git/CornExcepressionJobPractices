@@ -1,0 +1,6 @@
+Problem 20: Write a CRON expression that runs a job every 5 minutes but only between 9:00 AM and 6:00 PM on weekends.
+
+
+Answer:
+
+0/5 9-18 * * 6,7
