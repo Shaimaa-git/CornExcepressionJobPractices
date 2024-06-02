@@ -1,0 +1,5 @@
+Problem 4: Write a CRON expression that runs a job every Monday at 8:00 AM.
+
+Answer:
+
+0 8 * * 1
