@@ -1,0 +1,5 @@
+Problem 28: Write a CRON expression that runs a job at 12:00 PM on the 3rd Wednesday of every month.
+
+Answer:
+
+0 12 * * 3#3
