@@ -1,0 +1,5 @@
+Problem 54: Write a CRON expression that runs a job at 3:00 AM on weekdays in the month of November
+
+Answer:
+
+0 3 * 11 1-5
