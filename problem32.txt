@@ -1,0 +1,7 @@
+Problem 32: Write a CRON expression that runs a job at 3:15 AM every day.
+
+
+
+Answer:
+
+15 3 * * *
