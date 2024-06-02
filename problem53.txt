@@ -1,0 +1,6 @@
+Problem 53: Write a CRON expression that runs a job at 5:30 PM on the first day of every month.
+
+
+Answer:
+
+30 17 1 * * 
