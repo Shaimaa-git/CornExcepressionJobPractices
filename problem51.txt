@@ -1,0 +1,5 @@
+Problem 51: Write a CRON expression that runs a job every 2 hours between 10:00 PM and 6:00 AM
+
+Answer:
+
+0 */2 22-23,0-5 * *
