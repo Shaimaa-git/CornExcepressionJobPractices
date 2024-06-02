@@ -1,0 +1,6 @@
+Problem 11: Write a CRON expression that runs a job every 30 minutes during business hours (8:00 AM to 5:00 PM) on 
+weekdays.
+
+Answer:
+
+0/30 8-17 * * 1-5
