@@ -1,0 +1,5 @@
+Problem 10: Write a CRON expression that runs a job every hour during the month of January.
+
+Answer:
+
+0 * * 1 *
