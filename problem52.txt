@@ -1,0 +1,6 @@
+Problem 52: Write a CRON expression that runs a job at 1:30 PM on the second to last Friday of every month.
+
+
+Answer:
+
+30 13 * * FRIL#2
